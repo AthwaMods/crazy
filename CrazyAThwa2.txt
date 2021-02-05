@@ -1,33 +1,27 @@
-{"version_code":19901999,"content":"
-
-<p>ãáÇÍÙÉ ÇáÊÍÏíË ÛíÑ ãÌÑÈ Úáì ÇáÇÕÏÇÑÇÊ ÇáÞÏíãÉ</p>
-<p>ÊÍÏíË ÞÇÚÏ æÇÊÓÇÈ 2.20.205.16</p>
-<p>ÍÕÑíÇ ÇÖÇÝÉ ÊÛííÑ ÕæÊ ÊÓÌíá ÇáÕæÊ ÇÏÎá Çáì ÇáãÍÇÏËÉ Ëã Çá 3 äÞÇØ  Ëã ÊÛííÑ ÇáÕæÊ</p>
-<p>ÍÕÑíÇ ÊãÊ ÅÖÇÝÉ ÇáãÚÇíäÉ æÇáÊÃßíÏ ÞÈá ÅÑÓÇá ÇáãáÕÞ</p>
-<p>ÊÝÚíá ÇÎÊÝÇÁ ÎíÇÑ ÇáÑÓÇÆá</p>
-<p>ÅÖÇÝÉ ÇáãäÔä Ýí ÇáÕÝÍÉ ÇáÑÆíÓíÉ</p>
-<p>ÅÖÇÝÉ ÏÇÆÑÉ ÌäÈ ÇáÇÓã Ýí ÇáÕÝÍÉ ÇáÑÆíÓíÉ áãÚÑÝÉ ãä ãÊÕá ÇáÇä</p>
-<p>ÅÖÇÝÉ ÇÖåÑ ÕÍííä ÇáÒÑÞ ÚäÏ ÇáÑÏ Ýí ÇáãÌãæÚÇÊ</p>
-<p>ÅÖÇÝÉ ÎíÇÑ áÍÐÝ ÍÒã ÇáÇíãæÌí ÇáÊí Êã ÊäÒíáåÇ</p>
-<p>ÅÖÇÝÉ ÇáãÄÑÔÝ Ýí ÇáÔÇÔÉ ÇáÑÆíÓíÉ íÃÎÐ ÇáÂä áæä ÇáËíãÇÊ</p>
-<p>ÅÖÇÝÉ  20 ÓÊÇíá ááÔÇÔÉ /ÇáÑÆíÓíÉ/ÇáÍÇáÉ/ÇáãßÇáãÇÊ/ÌåÇÊ ÇáÇÊÕÇá</p>
-<p>ÅÖÇÝÉ  ÎíÇÑ áÊÍÑíß æÊãÑíÑ äÞØÉ ÇáãÊÕá</p>
-<p>ÅÖÇÝÉ  ÎíÇÑ áÊßÈíÑ æÊÕÛíÑ ÍÌã äÞØÉ ÇáãÊÕá</p>
-<p>ÅÖÇÝÉ  ÎíÇÑ Êáæíä äÞØÉ ÇáãÊÕá</p>
-<p>ÅÖÇÝÉ  ÎíÇÑ áÇÎÝÇÁ ÇáÑÓÇÆá ÇáãÑÔÝÉ (ÇáãÄÑÔÝÉ)</p>
-<p>ÅÖÇÝÉ  ÎíÇÑ Êáæíä ÎáÝíÉ ÇáÑÓÇÆá ÇáãÑÔÝÉ (ÇáãÄÑÔÝÉ)</p>
-<p>ÅÖÇÝÉ  ÎíÇÑ Êáæíä ÎØ ÇáÑÓÇÆá ÇáãÑÔÝÉ (ÇáãÄÑÔÝÉ)</p>
-<p>ÅÖÇÝÉ  ÎíÇÑ Êáæíä ÈØÇÞÉ ÇáÏÑÏÔÇÊ Ýí ÇáÔÇÔÉ ÇáÑÆíÓíÉ</p>
-<p>ÇáÇä  ÈÇãßÇäß äÓÎ ÇáßÊÇÈÉ Ýí æÕÝ Çæ ÔÑÍ ÇáÕæÑÉ Ýí ÇáÍÇáÉ (ÇáÓÊæÑí)</p>
-<p>ÅÖÇÝÉ ÊÝÚíá ÇáËíã ÚÈÑ ãáÝ Çá ZIP</p>
-<p>ÅÖÇÝÉ ÇÑÓÇá ÇáÑÓÇáÉ Çáì 250 ÔÎÕ (ÇáÊÝÚíá Úáì ãÓÄæáÊß ÇáÔÎÕíÉ)</p>
-<p>ÅÖÇÝÉ æÇÌåÉ UI ÌÏíÏÉ áÊÚáíã ÇáäÕ Ýí ÔÇÔÉ ÇáãÍÇÏËÉ (ÚÈÑ ÇáÖÛØ Úáì ÇáËáÇË äÞØ Ëã ÊÚáíã ÇáäÕ)</p>
-<p>ÅÖÇÝÉ ÇáÈÍË ÇáãÊÞÏã</p>
-<p>ÅÖÇÝÉ ÖÛØÉ ØæíáÉ Úáì ãÍÊæí ÇáÓÊæÑí áäÓÎ ÇáãÍÊæì</p>
-<p>ÅÕáÇÍ ãÔßáÉ ÇáÇäåíÇÑ ÚäÏ ÇáÖÛØ Úáì ÕæÑÊß ÇáÔÎÕíÉ (ÇáÈÑæÝÇíá) Ýí ÇáÔÇÔÉ ÇáÑÆíÓíÉ</p>
-<p>ÅÕáÇÍ ÅÑÓÇá ÇáÑÓÇÆá ÇáÈØíÆÉ Ýí ãÌãæÚÇÊ</p>
-<p>ãÒíÏ ÇáÚÏíÏ ãä ÇáÇãæÑ ÇáÇÎÑì æäÓíÊ ãÇ åí</p>
-<p>ÇÓÊãÊÚæÇ æÇßÊÔÝæÇ ÇáÌÏíÏ ÈÃäÝÓßã!</p>
- 
- ","url":"https://t.co/th9JaP56pN?amp=1"
+{"version_code":7111112,"content":"
+<strong><p>Ø¨Ø³Ù… Ø§Ù„Ù„Ù‡ Ø§Ù„Ø±Ø­Ù…Ù† Ø§Ù„Ø±Ø­ÙŠÙ…</p></strong>
+<strong><p>==================</p></strong>
+<strong><p>ðŸŒ™ØªØ­Ø¯ÙŠØ« Ø¬Ø¯ÙŠØ¯ Ø±Ù‚Ù… 4.80ðŸŒ™</p></strong>
+<strong><p>ðŸŒ™ ØªØ­Ø¯ÙŠØ« Ø¥Ø¬Ø¨Ø§Ø±ÙŠ Ù„ØªÙØ§Ø¯ÙŠ Ø¥Ù†Øª2222Ù‡Ø§Ø¡ Ø§Ù„Ù†Ø³Ø®Ø©ðŸŒ™</p></strong>
+<p><li>1ï¸âƒ£ Ø­Ù„ Ù…Ø´ÙƒÙ„Ø© ØªØ£Ø®Ø± ÙˆØµÙˆÙ„ Ø§Ù„Ø±Ø³Ø§Ø¦Ù„ Ø§Ùˆ ØªØ£Ø®Ø± Ø¥Ø±Ø³Ø§Ù„ Ø§Ù„Ø±Ø³Ø§Ø¦Ù„ ðŸ‘</li></p>
+<p><li>2ï¸âƒ£ Ø²ÙŠØ§Ø¯Ø© Ø§Ø¹Ø§Ø¯Ø© Ø§Ù„ØªÙˆØ¬ÙŠØ© Ø§Ù„Ù‰ Ù…Ø§Ù„Ø§Ù†Ù‡Ø§ÙŠØ© ðŸ‘</li></p>
+<p><li>3ï¸âƒ£ Ø¥Ø¶Ø§ÙØ© Ø®ÙŠØ§Ø± Ø¥Ø¸Ù‡Ø§Ø± Ø§Ù„ØµØ­ÙŠÙ† Ø§Ù„Ø²Ø±Ù‚Ø§Ø¡ ÙÙ‚Ø· Ø¨Ø¹Ø¯ Ø§Ù„Ø±Ø¯ (ØªØ¹Ù„ÙŠÙ… Ø§Ù„Ø±Ø³Ø§Ù„Ù‡ Ù…Ù‚Ø±ÙˆØ¡Ù‡ Ø¨Ø¹Ø¯ Ø§Ù„Ø±Ø¯!) ðŸ‘</li></p>
+<p><li>4ï¸âƒ£ Ø¥Ø¶Ø§ÙØ© Ø³ÙŠØ±ÙØ± Ø«ÙŠÙ…Ø§Øª Ø¬Ø¯ÙŠØ¯Ø© ÙŠØ¹Ù…Ù„ Ù…Ø¹ Ø¬Ù…ÙŠØ¹ Ø§Ù„Ø¥Ø¬Ù‡Ø²Ø© ðŸ‘</li></p>
+<p><li>5ï¸âƒ£ ØªØ³ØªØ·ÙŠØ¹ Ø§Ù„Ø§Ù† ØªØ«Ø¨ÙŠØª Ø§ÙƒØ«Ø± Ù…Ù† 1000 Ù…Ø­Ø§Ø¯Ø«Ø© ðŸ‘</li></p>
+<strong><p>==================</p></strong>
+<strong><p>ðŸŒ™New update number 4.80ðŸŒ™</p></strong>
+<strong><p>ðŸŒ™ Mandatory update to avoid expirationðŸŒ™</p></strong>
+<p><li>1ï¸âƒ£Resolve the problem of late arrival of messages or delayed sending messages ðŸ‘</li></p>
+<p><li>2ï¸âƒ£Added option to show blue saheen only after reply (mark message read after reply!) ðŸ‘</li></p>
+<p><li>3ï¸âƒ£Increase redirection to infinity ðŸ‘</li></p>
+<p><li>4ï¸âƒ£The addition of a new server theme works with all devices ðŸ‘</li></p>
+<p><li>5ï¸âƒ£ You can now install more than 1000 conversations ðŸ‘</li></p>
+<strong><p>==================</p></strong>
+<p>ðŸ‘‡ Ù„ØªØ­Ù…ÙŠÙ„ Ø§Ù„ØªØ­Ø¯ÙŠØ« Ø§Ù„Ø¬Ø¯ÙŠØ¯ ÙŠØ±Ø¬Ø¦ Ø§Ù„Ø¶ØºØ· Ø¨Ø§Ù„Ø£Ø³ÙÙ„ Ø¹Ù„Ù‰ ÙƒÙ„Ù…Ø© ÙÙ€ØªÙ€Ø­ ÙˆÙ…Ù† Ø«Ù… Ø§Ù„Ø¶ØºØ· Ø¹Ù„Ù‰ Ø§Ù„Ù…Ø³ØªØ·ÙŠÙ„ Ø§Ù„Ø£Ø®Ø¶Ø± Ù„Ø¨Ø¯Ø¡ Ø§Ù„ØªØ­Ù…ÙŠÙ„ ðŸ‘‡</p>
+<strong><p>ÙŠÙ…ÙƒÙ†ÙƒÙ… Ø£ÙŠØ¶Ø§Ù‹ ØªØ­Ù…ÙŠÙ„ Ø§Ù„ØªØ­Ø¯ÙŠØ« Ø§Ù„Ø¬Ø¯ÙŠØ¯ Ù…Ù† Ù…ÙˆÙ‚Ø¹Ù†Ø§Ø¹Ù„Ù‰ Ø§Ù„Ø£Ù†ØªØ±Ù†Øª Ø£Ùˆ Ù‚Ù†Ø§ØªÙ†Ø§ Ø¹Ù„Ù‰ Ø§Ù„ØªÙŠÙ„ÙŠØ¬Ø±Ø§Ù…</p></strong>
+<strong><p>==================</p></strong>
+<p><li>Ù…Ù€Ù„Ø§Ø­Ù€Ø¸Ù€Ø©</li></p>
+<p>ðŸ“© Ø³ØªØ®ØªÙÙŠ Ù‡Ø°Ø© Ø§Ù„Ø±Ø³Ø§Ù„Ø© ÙÙŠ Ø­Ø§Ù„ Ù‚Ù…Øª Ø¨ØªØ«Ø¨ÙŠØª Ø§Ù„ØªØ­Ø¯ÙŠØ« Ø§Ù„Ø¬Ø¯ÙŠØ¯ Ø¨Ø£Ø°Ù† Ø§Ù„Ù„Ù‡ ØªØ¹Ø§Ù„Ù‰ .. Ø´ÙƒØ±Ø§Ù‹ Ù„ÙƒÙ… .</p>
+<li>Ø§Ø®ÙŠØ±Ø§Ù‹ Ù†Ø£Ø³Ù Ù„Ø£Ø²Ø¹Ø§Ø¬ÙƒÙ… - Ø¯Ù…ØªÙ… ÙÙŠ Ø­ÙØ¸ Ø§Ù„Ù„Ù‡ -</li>
+","url":"https://athwamods.blogspot.com/2019/06/AThwaWhatsApp.html"
 }
