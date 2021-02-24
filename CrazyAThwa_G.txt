@@ -1,9 +1,18 @@
 {"version_code":7111111,"content":"
 <strong><p>بسم الله الرحمن الرحيم</p></strong>
-<strong><p>========V7.56==========</p></strong>
-<strong><p>🌙 تحديث إصلاحي مهم 🌙</p></strong>
-<strong><p>========V7.56==========</p></strong>
-<strong><p>🌙 Important reform update 🌙</p></strong>
+<strong><p>== أهلا بكم في واتساب أضواء العين ==</p></strong>
+<strong><p>🌙 تحديث إصلاحي مهم V7.60 🌙</p></strong>
+<p><li>1️⃣ إصلاح تأخير الرسائل 👍</li></p>
+<p><li>2️⃣ تمديد مدة الحالةالى أكثر من 30 ثانية 👍</li></p>
+<p><li>3️⃣ إصلاح عدم تحميل الثيمات 👍</li></p>
+<p><li>4️⃣ إصلاح رسالة التحديث 👍</li></p>
+<strong><p>==================</p></strong>
+<strong><p>== Welcome to WhatsApp Al Ain lights ==</p></strong>
+<strong><p>🌙 Important fix update V7.60 🌙</p></strong>
+<p><li>1️⃣ Fix delayed messages 👍</li></p>
+<p><li>2️⃣ Extending the duration of the case to more than 30 seconds 👍</li></p>
+<p><li>3️⃣ Fix not downloading themes 👍</li></p>
+<p><li>4️⃣ Fix the update message 👍</li></p>
 <strong><p>==================</p></strong>
 <strong><p>👇 يمكنك تحميل التحديث عبر الضغط بالأسفل على كلمة فتح 👇</p></strong>
 <strong><p>👇 You can download the update by clicking on the word Open below 👇</p></strong>
@@ -14,5 +23,5 @@
 <p>📩 This message will disappear if you update to the new version .. Thank you.</p>
 <li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
 <li>Finally, we apologize for the inconvenience</li>
-","url":"https://athwamods.blogspot.com/2019/06/AThwa2WhatsApp.html?m=1"
+","url":"https://athwamods.blogspot.com"
 }
